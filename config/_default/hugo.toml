@@ -1,7 +1,7 @@
 baseURL = "https://p0peye-blog.pages.dev/"
 locale = "en"
 defaultContentLanguage = "en"
-title = "Ahmad Massd — Security Blog"
+title = "Ahmad Massd — DFIR Blog"
 theme = "blowfish"
 
 [pagination]
