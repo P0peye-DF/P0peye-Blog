@@ -1,0 +1,37 @@
+baseURL = "https://your-site.pages.dev/"
+locale = "en"
+defaultContentLanguage = "en"
+title = "Ahmad Massd — Security Blog"
+theme = "blowfish"
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  colorScheme = "ocean"
+  defaultAppearance = "dark"
+  autoSwitchAppearance = false
+  enableSearch = true
+  enableCodeCopy = true
+  mainSections = ["posts"]
+  description = "Cybersecurity research, malware analysis, DFIR, and CTF write-ups by Ahmad Massd."
+
+  [params.author]
+    name = "Ahmad Massd"
+    email = "ahmad.massd@smt.com.jo"
+    # image = "img/author.jpg"  # Add a URL or place author.jpg in assets/img/ then set: "img/author.jpg"
+    headline = "Cybersecurity | DFIR | Malware Analysis"
+    bio = "Cybersecurity professional focused on Digital Forensics, Incident Response, and Malware Analysis. Sharing research, threat hunts, and CTF write-ups."
+    links = [
+      { linkedin = "https://linkedin.com/in/ahmadmassd" },
+      { email = "mailto:ahmad.massd@smt.com.jo" }
+    ]
+
+  [params.homepage]
+    layout = "profile"
+    showRecent = true
+    showRecentItems = 5

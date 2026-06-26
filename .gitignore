@@ -1,0 +1,8 @@
+public/
+resources/
+.hugo_build.lock
+.DS_Store
+Thumbs.db
+node_modules/
+*.bak
+*.log
