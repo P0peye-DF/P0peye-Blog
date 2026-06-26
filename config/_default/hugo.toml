@@ -12,9 +12,9 @@ theme = "blowfish"
   category = "categories"
 
 [params]
-  colorScheme = "ocean"
+  colorScheme = "congo"
   defaultAppearance = "dark"
-  autoSwitchAppearance = false
+  autoSwitchAppearance = true
   enableSearch = true
   enableCodeCopy = true
   mainSections = ["posts"]
@@ -35,3 +35,11 @@ theme = "blowfish"
     layout = "profile"
     showRecent = true
     showRecentItems = 5
+
+  [params.taxonomy]
+    cardView = true
+    showTermCount = true
+
+  [params.list]
+    showCards = true
+    groupByYear = false

@@ -2,5 +2,21 @@ label = "English"
 weight = 1
 title = "Ahmad Massd — Security Blog"
 
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Cybersecurity research, malware analysis, DFIR, and CTF write-ups by Ahmad Massd."
+
 [params.author]
-  name = "Ahmad Massd"
+  name = "Ahmad Massad"
+  email = "ahmad.massad.ir@gmail.com"
+  image = "https://media.licdn.com/dms/image/v2/D4E03AQHhf_78hFqIaw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722031613497?e=1784160000&v=beta&t=AKT7ahq40XsVTSk6eEuImsqGT7LdAUi89ybJby3EKns"
+  imageQuality = 96
+  headline = "A curious mind hunting threats and uncovering digital traces"
+  bio = "A curious mind exploring the world of cybersecurity through threat hunting, malware analysis, and digital forensics. Sharing my investigations, discoveries, and lessons learned along the way."
+  links = [
+    { linkedin = "https://linkedin.com/in/ahmadmassd" },
+    { email = "mailto:ahmad.massd@smt.com.jo" },
+  ]

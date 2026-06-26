@@ -9,30 +9,22 @@ showWordCount: false
 
 ## Hi, I'm Ahmad Massad
 
-A cybersecurity professional focused on **Digital Forensics**, **Incident Response**, and **Malware Analysis**. I enjoy investigating real-world attacks, analyzing digital evidence, and sharing my research, write-ups, and technical findings through this blog.
+I'm a DFIR Investigator specializing in Windows internals, memory forensics, and kernel-level telemetry. Rooted in proactive threat hunting, my focus is on dissecting complex attacks, analyzing malware, and building custom defensive tools to get as close to the metal as possible. When I'm not deep in an investigation, I'm usually competing in CTFs, sharpening my reverse engineering skills, or hitting the weights at the gym. This space is my digital command center for sharing technical research, write-ups, and practical lessons learned from the trenches.
 
 ---
 
 ## Focus Areas
 
-| Domain | What I Do |
-|--------|-----------|
-| **Malware Analysis** | Static & dynamic analysis, unpacking, config extraction |
-| **Memory Forensics** | Volatility 3, process injection, artifact hunting |
-| **Windows Forensics** | Registry, event logs, file system artifacts |
-| **Threat Hunting** | Hypothesis-driven hunts, DFIR, IOC development |
-| **CTF** | Forensics, reverse engineering, DFIR challenges |
-
----
-
-## Tools
-
-`Volatility 3` · `x64dbg` · `dnSpy` · `DIE` · `FLOSS` · `PEStudio` · `MemProcFS`  
-`Wireshark` · `Zeek` · `CyberChef` · `YARA` · `Sigma` · `Hashcat`
+- Malware Analysis
+- Memory Forensics
+- Windows Forensics
+- Threat Hunting
+- CTF
+- CTI & Threat Actor Profiling
 
 ---
 
 ## Contact
 
-- Email: [ahmad.massd@smt.com.jo](mailto:ahmad.massd@smt.com.jo)
+- Email: [ahmad.massad.ir@gmail.com](mailto:ahmad.massad.ir@gmail.com)
 - LinkedIn: [linkedin.com/in/ahmadmassd](https://linkedin.com/in/ahmadmassd)
