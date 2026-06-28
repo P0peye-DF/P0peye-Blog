@@ -4,7 +4,7 @@ date: 2026-06-28
 draft: false
 description: "CTF write-up: Linux forensics challenge involving a crypto-miner deployed by the Diicot threat group, analyzed using UAC artifacts to identify PIDs, C2 infrastructure, persistence via Systemd, and actor attribution."
 categories:
-  - Write-ups
+  - Researches
 tags:
   - CTF
   - forensics
